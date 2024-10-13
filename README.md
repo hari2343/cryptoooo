@@ -9,6 +9,6 @@ A simple and attractive webapp where you can find all cryptocurrencies, there ma
 - [Material UI](https://v4.mui.com/)
 - [Chart JS](https://reactchartjs.github.io/react-chartjs-2/#/)
 
-## Made with ♥ By [Vaibhav SInghvi](https://vaibhavsinghvi.netlify.app)
+## Made with ♥ By [Hari Om Sharma](https://hariomsharma.netlify.app)
 
-LinkedIN  [Vaibhav Singhvi](https://www.linkedin.com/in/vaibhav-singhvi-b31333159/)
+
